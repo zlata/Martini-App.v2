@@ -1,0 +1,1268 @@
+TDETweeter
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/Info.plist" DETweeter/DETweeter-Info.plist
+cProcessPCH /var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-dveamzbbknfaztbxrxnjaldzlxzx/DETweeter-Prefix.pch.pth DETweeter/DETweeter-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-cxflibvqlugpcwdvbkiqwzjovqag/DETweeter-Prefix.pch.pth DETweeter/DETweeter-Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-bedzosnwqrrdmjckxqmpoawabqye/DETweeter-Prefix.pch.pth DETweeter/DETweeter-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/Base64Transcoder.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/Base64Transcoder.c" normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004E9817E40000000000000110
+t1318590436
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+c000000004E72F3CA000000000001EB80
+t1316156362
+s125824
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004E72F23F00000000002050D0
+t1316155967
+s2117840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004E72F3C800000000000998C0
+t1316156360
+s628928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004E72F177000000000006C8A0
+t1316155767
+s444576
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Twitter.framework/Twitter
+c000000004E78084F000000000003A350
+t1316489295
+s238416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/lib/libz.dylib
+c000000004E72EDC60000000000013460
+t1316154822
+s78944
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DERuledView.m
+c000000004F0EF03C0000000000000E00
+t1326379068
+s3584
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetAccountSelectorViewController.m
+c000000004F0EF03C00000000000012CC
+t1326379068
+s4812
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetComposeView.xib
+c000000004F0EF03C0000000000007C3D
+t1326379068
+s31805
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetComposeViewController.m
+c000000004F1287ED00000000000093CE
+t1326614509
+s37838
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetGradientView.m
+c000000004F0EF03C0000000000000E51
+t1326379068
+s3665
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetSheetCardView.m
+c000000004F0EF03C0000000000000E1B
+t1326379068
+s3611
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetTextView.m
+c000000004F0EF03C0000000000001E13
+t1326379068
+s7699
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/OAuth+DEExtensions.m
+c000000004F0EF03C0000000000000930
+t1326379068
+s2352
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/OAuth+DEUserDefaults.m
+c000000004F1288070000000000000F16
+t1326614535
+s3862
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetAttachmentFrame.png
+c000000004F0EF03C00000000000003DC
+t1326379068
+s988
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetAttachmentFrame@2x.png
+c000000004F0EF03C00000000000007ED
+t1326379068
+s2029
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetCancelButtonLandscape.png
+c000000004F0EF03C00000000000001ED
+t1326379068
+s493
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetCancelButtonLandscape@2x.png
+c000000004F0EF03C00000000000003A8
+t1326379068
+s936
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetCancelButtonPortrait.png
+c000000004F0EF03C0000000000000266
+t1326379068
+s614
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetCancelButtonPortrait@2x.png
+c000000004F0EF03C00000000000004D9
+t1326379068
+s1241
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetCardAccountLine.png
+c000000004F0EF03C000000000000014F
+t1326379068
+s335
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetCardAccountLine@2x.png
+c000000004F0EF03C0000000000000529
+t1326379068
+s1321
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetCardBackground.png
+c000000004F0EF03C000000000000162D
+t1326379068
+s5677
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetCardBackground@2x.png
+c000000004F0EF03C0000000000005103
+t1326379068
+s20739
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetCardHeaderLine.png
+c000000004F0EF03C0000000000000094
+t1326379068
+s148
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetCardHeaderLine@2x.png
+c000000004F0EF03C00000000000000EC
+t1326379068
+s236
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetPaperClip.png
+c000000004F0EF03C0000000000000B0B
+t1326379068
+s2827
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetPaperClip@2x.png
+c000000004F0EF03C0000000000001B56
+t1326379068
+s6998
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetSendButtonLandscape.png
+c000000004F0EF03C0000000000000215
+t1326379068
+s533
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetSendButtonLandscape@2x.png
+c000000004F0EF03C000000000000040B
+t1326379068
+s1035
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetSendButtonPortrait.png
+c000000004F0EF03C00000000000002ED
+t1326379068
+s749
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetSendButtonPortrait@2x.png
+c000000004F0EF03C0000000000000583
+t1326379068
+s1411
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetURLAttachment.png
+c000000004F0EF03C000000000000184E
+t1326379068
+s6222
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/Resources/DETweetURLAttachment@2x.png
+c000000004F0EF03C0000000000004012
+t1326379068
+s16402
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/UIDevice+DETweetComposeViewController.m
+c000000004F0EF03C0000000000000911
+t1326379068
+s2321
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/../DETweetComposeViewController/DEEmbossedLabel.m
+c000000004F0EF03C0000000000001CE3
+t1326379068
+s7395
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/../DETweetComposeViewController/DETweetPoster.m
+c000000004F1287CF0000000000002999
+t1326614479
+s10649
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/../Default-Landscape~ipad.png
+c000000004F0EF03C00000000000C3780
+t1326379068
+s800640
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/../Default-Portrait~ipad.png
+c000000004F0EF03C00000000000C7CBF
+t1326379068
+s818367
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/../Default.png
+c000000004F0EF03C000000000002CA16
+t1326379068
+s182806
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/../Default@2x.png
+c000000004F0EF03C00000000000A3824
+t1326379068
+s669732
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/../icon.png
+c000000004F0EF03C000000000000CAEB
+t1326379068
+s51947
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/../icon@2x.png
+c000000004F0EF03C000000000000DD98
+t1326379068
+s56728
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/../icon~ipad.png
+c000000004F0EF03C000000000000082F
+t1326379068
+s2095
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/DEAppDelegate.m
+c000000004F0EF03C00000000000004F6
+t1326379068
+s1270
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/DETweeter-Prefix.pch
+c000000004F0EF03C0000000000000141
+t1326379068
+s321
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/DEViewController.m
+c000000004F0EF03C00000000000019EA
+t1326379068
+s6634
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/Settings.bundle
+c000000004F0EF03C0000000000000088
+t1326379068
+s136
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/YawkeyBusinessDog.jpg
+c000000004F0EF03C0000000000011CC5
+t1326379068
+s72901
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/YawkeyCleanTeeth.jpg
+c000000004F0EF03C0000000000018991
+t1326379068
+s100753
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/background.png
+c000000004F0EF03C000000000013500F
+t1326379068
+s1265679
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/en.lproj/DEViewController_iPad.xib
+c000000004F0EF03C000000000000334D
+t1326379068
+s13133
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/en.lproj/DEViewController_iPhone.xib
+c000000004F0EF03C0000000000003C87
+t1326379068
+s15495
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/en.lproj/InfoPlist.strings
+c000000004F0EF03C000000000000002D
+t1326379068
+s45
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/main.m
+c000000004F0EF03C0000000000000136
+t1326379068
+s310
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/NSObject+SBJSON.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/NSString+SBJSON.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/SBJSON.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/SBJsonBase.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/SBJsonParser.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/SBJsonWriter.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/Base64Transcoder.c
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/OAHMAC_SHA1SignatureProvider.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/hmac.c
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/sha1.c
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/DEHTTPRequest.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/NSString+URLEncoding.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/OAuth+UserDefaults.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/OAuth.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/TwitterDialog.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/tclose.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/ticon.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/Base64Transcoder.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DEAppDelegate.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DEEmbossedLabel.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DEHTTPRequest.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DERuledView.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DETweetAccountSelectorViewController.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DETweetComposeViewController.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DETweetGradientView.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DETweetPoster.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DETweetSheetCardView.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DETweetTextView.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DETweeter.LinkFileList
+c000000004F12916500000000000011C1
+t1326616933
+s4545
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DEViewController.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/NSObject+SBJSON.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/NSString+SBJSON.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/NSString+URLEncoding.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/OAHMAC_SHA1SignatureProvider.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/OAuth+DEExtensions.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/OAuth+DEUserDefaults.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/OAuth+UserDefaults.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/OAuth.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/SBJSON.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/SBJsonBase.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/SBJsonParser.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/SBJsonWriter.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/TwitterDialog.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/UIDevice+DETweetComposeViewController.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/hmac.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/sha1.o
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/Base64Transcoder.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/DEAppDelegate.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/DEEmbossedLabel.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/DEHTTPRequest.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/DERuledView.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/DETweetAccountSelectorViewController.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/DETweetComposeViewController.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/DETweetGradientView.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/DETweetPoster.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/DETweetSheetCardView.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/DETweetTextView.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/DEViewController.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/NSObject+SBJSON.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/NSString+SBJSON.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/NSString+URLEncoding.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/OAHMAC_SHA1SignatureProvider.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/OAuth+DEExtensions.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/OAuth+DEUserDefaults.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/OAuth+UserDefaults.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/OAuth.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/SBJSON.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/SBJsonBase.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/SBJsonParser.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/SBJsonWriter.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/TwitterDialog.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/UIDevice+DETweetComposeViewController.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/hmac.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/main.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/StaticAnalyzer/normal/i386/sha1.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app.dSYM
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetAttachmentFrame.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetAttachmentFrame@2x.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetCancelButtonLandscape.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetCancelButtonLandscape@2x.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetCancelButtonPortrait.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetCancelButtonPortrait@2x.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetCardAccountLine.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetCardAccountLine@2x.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetCardBackground.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetCardBackground@2x.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetCardHeaderLine.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetCardHeaderLine@2x.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetComposeView.nib
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetPaperClip.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetPaperClip@2x.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetSendButtonLandscape.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetSendButtonLandscape@2x.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetSendButtonPortrait.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetSendButtonPortrait@2x.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetURLAttachment.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweetURLAttachment@2x.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweeter
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/Default-Landscape~ipad.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/Default-Portrait~ipad.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/Default.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/Default@2x.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/Info.plist
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/PkgInfo
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/Settings.bundle
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/YawkeyBusinessDog.jpg
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/YawkeyCleanTeeth.jpg
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/background.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/en.lproj/DEViewController_iPad.nib
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/en.lproj/DEViewController_iPhone.nib
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/icon.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/icon@2x.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/icon~ipad.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/tclose.png
+t2
+s0
+
+N/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/ticon.png
+t2
+s0
+
+N/var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-bedzosnwqrrdmjckxqmpoawabqye/DETweeter-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-cxflibvqlugpcwdvbkiqwzjovqag/DETweeter-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-dveamzbbknfaztbxrxnjaldzlxzx/DETweeter-Prefix.pch.pth
+t2
+s0
+
+NDETweeter/DETweeter-Info.plist
+c000000004F0EF03C00000000000007EE
+t1326379068
+s2030
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DERuledView.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetAccountSelectorViewController.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetComposeViewController.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetGradientView.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetSheetCardView.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetTextView.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/OAuth+DEExtensions.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/OAuth+DEUserDefaults.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/UIDevice+DETweetComposeViewController.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/../DETweetComposeViewController/DEEmbossedLabel.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/../DETweetComposeViewController/DETweetPoster.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/DEAppDelegate.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/DEViewController.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/main.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/NSObject+SBJSON.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/NSString+SBJSON.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/SBJSON.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/SBJsonBase.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/SBJsonParser.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/SBJsonWriter.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/Base64Transcoder.c"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/OAHMAC_SHA1SignatureProvider.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/hmac.c"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/sha1.c"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/DEHTTPRequest.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/NSString+URLEncoding.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/OAuth+UserDefaults.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/OAuth.m"
+r0
+
+CAnalyze "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/TwitterDialog.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DERuledView.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetAccountSelectorViewController.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetComposeViewController.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetGradientView.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetSheetCardView.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetTextView.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/OAuth+DEExtensions.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/OAuth+DEUserDefaults.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/UIDevice+DETweetComposeViewController.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/../DETweetComposeViewController/DEEmbossedLabel.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/../DETweetComposeViewController/DETweetPoster.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/DEAppDelegate.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/DEViewController.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/main.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/NSObject+SBJSON.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/NSString+SBJSON.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/SBJSON.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/SBJsonBase.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/SBJsonParser.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/SBJsonWriter.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/Base64Transcoder.c"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/OAHMAC_SHA1SignatureProvider.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/hmac.c"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/sha1.c"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/DEHTTPRequest.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/NSString+URLEncoding.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/OAuth+UserDefaults.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/OAuth.m"
+r0
+
+CBuild AST from "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/TwitterDialog.m"
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb53318e5c8c2b441^c6c49ae5c8c2b441^---0#1#0#--18"Check dependencies36"1F58EC92-236A-4EEB-AC89-172914FA6097-
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/Base64Transcoder.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/Base64Transcoder.c" normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s348309734.674935
+e348309734.692883
+r0
+xCompileC
+xbuild/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/Base64Transcoder.o
+x/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/Base64Transcoder.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: no such file or directory: '/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/Base64Transcoder.c'
+oclang: error: no input files
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection157"Compile /Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/Base64Transcoder.c8cf2ace6c8c2b441^b03bb1e6c8c2b441^-324"clang: error: no such file or directory: '/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/Base64Transcoder.c'clang: error: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@101"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang failed with exit code 1-348309734#4294967295#0#-2#--29"Apple LLVM compiler 3.0 Error--0#0#0#-19%DVTDocumentLocation3@167"file://localhost/Volumes/developer%203/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/Base64Transcoder.c00000084138bdbc1^2879"CompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/Base64Transcoder.o DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/Base64Transcoder.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/developer 3/MARTINI/martini/martini/externals/tw"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DETweeter-generated-files.hmap" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DETweeter-own-target-headers.hmap" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DETweeter-all-target-headers.hmap" -iquote "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DETweeter-project-headers.hmap" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/include" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DerivedSources/i386" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DerivedSources" "-F/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator" -include /var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-cxflibvqlugpcwdvbkiqwzjovqag/DETweeter-Prefix.pch -MMD -MT dependencies -MF "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/Base64Transcoder.d" -c "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/Base64Transcoder.c" -o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/Base64Transcoder.o"36"DBE8920D-FC98-4798-8E98-7DC96E82EFDC-
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DEAppDelegate.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/DEAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DEEmbossedLabel.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/../DETweetComposeViewController/DEEmbossedLabel.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DEHTTPRequest.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/DEHTTPRequest.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DERuledView.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DERuledView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DETweetAccountSelectorViewController.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetAccountSelectorViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DETweetComposeViewController.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetComposeViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DETweetGradientView.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetGradientView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DETweetPoster.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/../DETweetComposeViewController/DETweetPoster.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DETweetSheetCardView.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetSheetCardView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DETweetTextView.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetTextView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/DEViewController.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/DEViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/NSObject+SBJSON.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/NSObject+SBJSON.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/NSString+SBJSON.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/NSString+SBJSON.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/NSString+URLEncoding.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/NSString+URLEncoding.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/OAHMAC_SHA1SignatureProvider.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/OAHMAC_SHA1SignatureProvider.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/OAuth+DEExtensions.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/OAuth+DEExtensions.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/OAuth+DEUserDefaults.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/OAuth+DEUserDefaults.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/OAuth+UserDefaults.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/OAuth+UserDefaults.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/OAuth.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/OAuth.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/SBJSON.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/SBJSON.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/SBJsonBase.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/SBJsonBase.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/SBJsonParser.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/SBJsonParser.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/SBJsonWriter.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/JSON/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/TwitterDialog.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/TwitterDialog.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/UIDevice+DETweetComposeViewController.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/UIDevice+DETweetComposeViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/hmac.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/hmac.c" normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/main.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/Objects-normal/i386/sha1.o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/OAuth/Guts/Crypto/sha1.c" normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileXIB "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweetComposeViewController/DETweetComposeView.xib"
+r0
+
+CCompileXIB "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/en.lproj/DEViewController_iPad.xib"
+r0
+
+CCompileXIB "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/en.lproj/DEViewController_iPhone.xib"
+r0
+
+CCopyStringsFile "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/en.lproj/InfoPlist.strings" DETweeter/en.lproj/InfoPlist.strings
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetAttachmentFrame.png build/Debug-iphonesimulator/DETweeter.app/DETweetAttachmentFrame.png
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetAttachmentFrame@2x.png build/Debug-iphonesimulator/DETweeter.app/DETweetAttachmentFrame@2x.png
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetCancelButtonLandscape.png build/Debug-iphonesimulator/DETweeter.app/DETweetCancelButtonLandscape.png
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetCancelButtonLandscape@2x.png build/Debug-iphonesimulator/DETweeter.app/DETweetCancelButtonLandscape@2x.png
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetCancelButtonPortrait.png build/Debug-iphonesimulator/DETweeter.app/DETweetCancelButtonPortrait.png
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetCancelButtonPortrait@2x.png build/Debug-iphonesimulator/DETweeter.app/DETweetCancelButtonPortrait@2x.png
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetCardAccountLine.png build/Debug-iphonesimulator/DETweeter.app/DETweetCardAccountLine.png
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetCardAccountLine@2x.png build/Debug-iphonesimulator/DETweeter.app/DETweetCardAccountLine@2x.png
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetCardBackground.png build/Debug-iphonesimulator/DETweeter.app/DETweetCardBackground.png
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetCardBackground@2x.png build/Debug-iphonesimulator/DETweeter.app/DETweetCardBackground@2x.png
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetCardHeaderLine.png build/Debug-iphonesimulator/DETweeter.app/DETweetCardHeaderLine.png
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetCardHeaderLine@2x.png build/Debug-iphonesimulator/DETweeter.app/DETweetCardHeaderLine@2x.png
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetPaperClip.png build/Debug-iphonesimulator/DETweeter.app/DETweetPaperClip.png
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetPaperClip@2x.png build/Debug-iphonesimulator/DETweeter.app/DETweetPaperClip@2x.png
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetSendButtonLandscape.png build/Debug-iphonesimulator/DETweeter.app/DETweetSendButtonLandscape.png
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetSendButtonLandscape@2x.png build/Debug-iphonesimulator/DETweeter.app/DETweetSendButtonLandscape@2x.png
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetSendButtonPortrait.png build/Debug-iphonesimulator/DETweeter.app/DETweetSendButtonPortrait.png
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetSendButtonPortrait@2x.png build/Debug-iphonesimulator/DETweeter.app/DETweetSendButtonPortrait@2x.png
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetURLAttachment.png build/Debug-iphonesimulator/DETweeter.app/DETweetURLAttachment.png
+r0
+
+CCpResource DETweetComposeViewController/Resources/DETweetURLAttachment@2x.png build/Debug-iphonesimulator/DETweeter.app/DETweetURLAttachment@2x.png
+r0
+
+CCpResource DETweeter/../Default-Landscape~ipad.png build/Debug-iphonesimulator/DETweeter.app/Default-Landscape~ipad.png
+r0
+
+CCpResource DETweeter/../Default-Portrait~ipad.png build/Debug-iphonesimulator/DETweeter.app/Default-Portrait~ipad.png
+r0
+
+CCpResource DETweeter/../Default.png build/Debug-iphonesimulator/DETweeter.app/Default.png
+r0
+
+CCpResource DETweeter/../Default@2x.png build/Debug-iphonesimulator/DETweeter.app/Default@2x.png
+r0
+
+CCpResource DETweeter/../icon.png build/Debug-iphonesimulator/DETweeter.app/icon.png
+r0
+
+CCpResource DETweeter/../icon@2x.png build/Debug-iphonesimulator/DETweeter.app/icon@2x.png
+r0
+
+CCpResource DETweeter/../icon~ipad.png build/Debug-iphonesimulator/DETweeter.app/icon~ipad.png
+r0
+
+CCpResource DETweeter/Settings.bundle build/Debug-iphonesimulator/DETweeter.app/Settings.bundle
+r0
+
+CCpResource DETweeter/YawkeyBusinessDog.jpg build/Debug-iphonesimulator/DETweeter.app/YawkeyBusinessDog.jpg
+r0
+
+CCpResource DETweeter/YawkeyCleanTeeth.jpg build/Debug-iphonesimulator/DETweeter.app/YawkeyCleanTeeth.jpg
+r0
+
+CCpResource DETweeter/background.png build/Debug-iphonesimulator/DETweeter.app/background.png
+r0
+
+CCpResource DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/tclose.png build/Debug-iphonesimulator/DETweeter.app/tclose.png
+r0
+
+CCpResource DETweeter/unofficial-twitter-sdk/unoffical-twitter-sdk/ticon.png build/Debug-iphonesimulator/DETweeter.app/ticon.png
+r0
+
+CGenerateDSYMFile "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app.dSYM" "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweeter"
+r0
+
+CLd "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/DETweeter" normal i386
+r0
+
+CProcessInfoPlistFile "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/Info.plist" DETweeter/DETweeter-Info.plist
+s348309733.648076
+e348309733.820249
+r1
+xProcessInfoPlistFile
+x/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/Info.plist
+xDETweeter/DETweeter-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process DETweeter/DETweeter-Info.plistb307a6e5c8c2b441^4914d2e5c8c2b441^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Volumes/developer%203/MARTINI/martini/martini/externals/tw/DETweeter/DETweeter-Info.plist0000000000000000^663"ProcessInfoPlistFile build/Debug-iphonesimulator/DETweeter.app/Info.plist DETweeter/DETweeter-Info.plist    cd "/Volumes/developer 3/MARTINI/martini/martini/externals/tw"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DETweeter/DETweeter-Info.plist -genpkginfo "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app/Info.plist"36"FE20FE96-7942-4D98-AA01-2A6AA82E74AD-
+
+CProcessPCH /Users/zlata/Library/Developer/Xcode/DerivedData/DETweeter-bngcmzgieywynjbkxhkvoimyjtau/Index/PrecompiledHeaders/DETweeter-Prefix-akmtaivycfhgbqhfiaycwaesdona_ast/DETweeter-Prefix.pch.pth DETweeter/DETweeter-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/zlata/Library/Developer/Xcode/DerivedData/DETweeter-bngcmzgieywynjbkxhkvoimyjtau/Index/PrecompiledHeaders/DETweeter-Prefix-ecaflzltnxbzhaedvkpkzxvmclrr_ast/DETweeter-Prefix.pch.pth DETweeter/DETweeter-Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-bedzosnwqrrdmjckxqmpoawabqye/DETweeter-Prefix.pch.pth DETweeter/DETweeter-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s348309733.933961
+e348309734.672578
+r1
+xProcessPCH
+x/var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-bedzosnwqrrdmjckxqmpoawabqye/DETweeter-Prefix.pch.pth
+xDETweeter/DETweeter-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile DETweeter/DETweeter-Prefix.pchb743efe5c8c2b441^512face6c8c2b441^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Volumes/developer%203/MARTINI/martini/martini/externals/tw/DETweeter/DETweeter-Prefix.pch0000000000000000^2928"ProcessPCH /var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-bedzosnwqrrdmjckxqmpoawabqye/DETweeter-Prefix.pch.pth DETweeter/DETweeter-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd "/Volumes/developer 3/MARTINI/martini/martini/externals/tw"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DETweeter-generated-files.hmap" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DETweeter-own-target-headers.hmap" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DETweeter-all-target-headers.hmap" -iquote "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DETweeter-project-headers.hmap" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/include" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DerivedSources/i386" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DerivedSources" "-F/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator" -c "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/DETweeter-Prefix.pch" -o /var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-bedzosnwqrrdmjckxqmpoawabqye/DETweeter-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-bedzosnwqrrdmjckxqmpoawabqye/DETweeter-Prefix.pch.d36"BB38B090-6EE2-497C-B7A3-4A8A2310B517-
+
+CProcessPCH /var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-cxflibvqlugpcwdvbkiqwzjovqag/DETweeter-Prefix.pch.pth DETweeter/DETweeter-Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s348309733.824827
+e348309733.932588
+r1
+xProcessPCH
+x/var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-cxflibvqlugpcwdvbkiqwzjovqag/DETweeter-Prefix.pch.pth
+xDETweeter/DETweeter-Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile DETweeter/DETweeter-Prefix.pchd34cd3e5c8c2b441^18cdeee5c8c2b441^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Volumes/developer%203/MARTINI/martini/martini/externals/tw/DETweeter/DETweeter-Prefix.pch0000000000000000^2680"ProcessPCH /var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-cxflibvqlugpcwdvbkiqwzjovqag/DETweeter-Prefix.pch.pth DETweeter/DETweeter-Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/developer 3/MARTINI/martini/martini/externals/tw"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DETweeter-generated-files.hmap" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DETweeter-own-target-headers.hmap" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DETweeter-all-target-headers.hmap" -iquote "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DETweeter-project-headers.hmap" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/include" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DerivedSources/i386" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DerivedSources" "-F/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator" -c "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/DETweeter-Prefix.pch" -o /var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-cxflibvqlugpcwdvbkiqwzjovqag/DETweeter-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-cxflibvqlugpcwdvbkiqwzjovqag/DETweeter-Prefix.pch.d36"246C9D7A-28E0-4921-9421-D06865EAC873-
+
+CProcessPCH /var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-dveamzbbknfaztbxrxnjaldzlxzx/DETweeter-Prefix.pch.pth DETweeter/DETweeter-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s348309733.824310
+e348309734.792977
+r1
+xProcessPCH
+x/var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-dveamzbbknfaztbxrxnjaldzlxzx/DETweeter-Prefix.pch.pth
+xDETweeter/DETweeter-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile DETweeter/DETweeter-Prefix.pchdf32d3e5c8c2b441^6936cbe6c8c2b441^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Volumes/developer%203/MARTINI/martini/martini/externals/tw/DETweeter/DETweeter-Prefix.pch0000000000000000^2907"ProcessPCH /var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-dveamzbbknfaztbxrxnjaldzlxzx/DETweeter-Prefix.pch.pth DETweeter/DETweeter-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/developer 3/MARTINI/martini/martini/externals/tw"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DETweeter-generated-files.hmap" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DETweeter-own-target-headers.hmap" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DETweeter-all-target-headers.hmap" -iquote "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DETweeter-project-headers.hmap" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/include" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DerivedSources/i386" "-I/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/DETweeter.build/Debug-iphonesimulator/DETweeter.build/DerivedSources" "-F/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator" -c "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/DETweeter/DETweeter-Prefix.pch" -o /var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-dveamzbbknfaztbxrxnjaldzlxzx/DETweeter-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zs/zshRFsbTFmWiGqjlVR30s++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DETweeter-Prefix-dveamzbbknfaztbxrxnjaldzlxzx/DETweeter-Prefix.pch.d36"7EECDFDC-5798-4326-9E54-5D31724E0FD5-
+
+CTouch "/Volumes/developer 3/MARTINI/martini/martini/externals/tw/build/Debug-iphonesimulator/DETweeter.app"
+r0
+
